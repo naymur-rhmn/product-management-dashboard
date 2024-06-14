@@ -1,0 +1,116 @@
+{
+  "products": [
+    {
+      "name": "Apples",
+      "category": "Fruits",
+      "image": "https://i.ibb.co/C6z2J7J/apple.png",
+      "price": 2.0,
+      "description": "Sweet and crisp Gala apples, grown organically."
+    },
+    {
+      "name": "Baby Spinach",
+      "category": "Vegetables",
+      "image": "https://i.ibb.co/Wy4Wz9n/food-7-min.png",
+      "price": 3.49,
+      "description": "Tender organic baby spinach leaves, perfect for salads."
+    },
+    {
+      "name": "Poppy Seeds",
+      "category": "Seeds",
+      "image": "https://i.ibb.co/hCX008s/food-13-min.png",
+      "price": 2.99,
+      "description": "Organic cauliflower florets, versatile and nutritious."
+    },
+    {
+      "name": "Chia Seeds",
+      "category": "Seeds",
+      "image": "https://i.ibb.co/0mmXNnT/food-14-min.png",
+      "price": 2.99,
+      "description": "Organic cauliflower florets, versatile and nutritious."
+    },
+    {
+      "name": "Avocado",
+      "category": "Fruits",
+      "image": "https://i.ibb.co/W5SW58H/avocado.png",
+      "price": 1.79,
+      "description": "Creamy and nutritious organic avocados."
+    },
+    {
+      "name": "Carrots",
+      "category": "Vegetables",
+      "image": "https://i.ibb.co/c1jc7HJ/food-3-min.png",
+      "price": 2.29,
+      "description": "Sweet and crunchy organic carrots, great for snacking."
+    },
+    {
+      "name": "Strawberries",
+      "category": "Fruits",
+      "image": "https://i.ibb.co/rcZ9TC8/food-5-min.png",
+      "price": 4.99,
+      "description": "Juicy and sweet organic strawberries, bursting with flavor."
+    },
+    {
+      "name": "Broccoli",
+      "category": "Vegetables",
+      "image": "https://i.ibb.co/WyjMsfB/food-2-min.png",
+      "price": 2.99,
+      "description": "Fresh organic broccoli florets, perfect for stir-fries and salads."
+    },
+    {
+      "name": "Kiwi",
+      "category": "Fruits",
+      "image": "https://i.ibb.co/TYvGFNY/food-10-min.png",
+      "price": 0.99,
+      "description": "Organic kiwi fruit with a tangy and sweet flavor."
+    },
+    {
+      "name": "Bell Peppers",
+      "category": "Vegetables",
+      "image": "https://i.ibb.co/VVST0bN/food-4-min.png",
+      "price": 1.49,
+      "description": "Colorful organic bell peppers, great for cooking or snacking."
+    },
+    {
+      "name": "Blueberries",
+      "category": "Fruits",
+      "image": "https://i.ibb.co/tx7BWD7/food-1-min.png",
+      "price": 5.49,
+      "description": "Plump and sweet organic blueberries, bursting with flavor."
+    },
+    {
+      "name": "Cauliflower",
+      "category": "Vegetables",
+      "image": "https://i.ibb.co/5KVX3Qh/food-6-min.png",
+      "price": 3.99,
+      "description": "Organic cauliflower florets, versatile and nutritious."
+    },
+    {
+      "name": "Tomato",
+      "category": "Vegetables",
+      "image": "https://i.ibb.co/1TD7WhY/food-8-min.png",
+      "price": 0.99,
+      "description": "Organic Tomato florets, versatile and nutritious."
+    },
+    {
+      "name": "Banana",
+      "category": "fruits",
+      "image": "https://i.ibb.co/FsfwMfX/food-9-min.png",
+      "price": 3.0,
+      "description": "Organic Banana florets, versatile and nutritious."
+    },
+    {
+      "name": "Pears",
+      "category": "Fruits",
+      "image": "https://i.ibb.co/3f3V15j/food-11-min.png",
+      "price": 2.99,
+      "description": "Organic cauliflower florets, versatile and nutritious."
+    },
+    {
+      "name": "Barley",
+      "category": "Seeds",
+      "image": "https://i.ibb.co/zGg6H1k/food-12-min.png",
+      "price": 4.99,
+      "description": "Organic cauliflower florets, versatile and nutritious."
+    }
+  ]
+}

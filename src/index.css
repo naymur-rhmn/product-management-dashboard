@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+table tbody tr {
+  border-bottom: 1px solid rgb(225, 224, 224) !important;
+}
